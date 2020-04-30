@@ -1,3 +1,5 @@
+# link to follow and and add code by step to make it working
+https://www.debuggr.io/react-micro-frontends/
 # react-external-integration-starter
 ### This is a starter project to follow along with the toturial on how to integrate react with external applications.
 
